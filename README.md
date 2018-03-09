@@ -38,6 +38,7 @@ Resources that could be helpful in the development of the Borough.
 
 ## Montreal-specific
 
+- [OpenStreetMap Montréal](http://www.openstreetmap-montreal.org) - un groupe informel de contributeurs bénévoles qui œuvrent à l'amélioration des données OpenStreetMap à Montréal et aux alentours. Le 15 août 2014, le comité directeur du Groupe de travail sur les données ouvertes a autorisé explicitement les contributeurs à OpenStreetMap d’importer les données ouvertes de la Ville de Montréal dans base de données du projet. [(source)](http://donnees.ville.montreal.qc.ca/portail/licence#autorisation)
 - [Demande d'accès à l'information à la Ville de Montréal](http://daimtl.org) 
 - [Appel d’offres (SEAO)]()
 - [Données sur quand y'refont les rues](https://do101mtl.info/resur) - Formulaire permettant de saisir les rues qui ont été resurfacées afin de vérifier combien de temps il faudra avant que le premier nid de poule ne soit bouché. Basé sur les [données ouvertes sur les #NidsDePoule](bit.ly/DONidsDePoule)
